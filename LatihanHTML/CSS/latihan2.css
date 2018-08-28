@@ -1,0 +1,85 @@
+/* h2 {
+    color: orange;
+}
+
+p {
+    color: red;
+}
+
+.mobil {
+    color: blue;
+}
+
+#avanza {
+    color: greenyellow
+}
+
+a[href] {color: red;}
+
+.TEST2{COLOR: greenyellow} */
+
+/* BACKGROUND COLOR */
+
+/* body {
+    background-color: blue;
+    background: linear-gradient(blue, yellow);
+    background: linear-gradient(90deg, blue, yellow);
+    background: radial-gradient(blue, yellow);
+} */
+
+/* BACKGROUND IMAGE */
+
+/* body {
+    /* background-color: lightgray; */
+
+/* background: url("../images/kucing.jpg");
+    background-position: left top;
+    background-size: 100%;
+    background-repeat: no-repeat;
+} */
+
+/* FONT AND TEXT */
+
+/* WIDTH AND HEIGHT */
+/* body {
+    margin: 0;
+    background-color: black
+}
+
+.konten {
+    background-color: pink;
+    border: 10px solid white;
+    width: 100%;
+    height: 100%;
+    margin: 35px;
+    padding: 30px 50px 10px 5px;
+}
+
+.konten1 {
+    background-color: greenyellow;
+    border: 10px solid white;
+    width: 100%;
+    height: 100%;
+    margin: 35px;
+    padding: 30px 50px 10px 5px;
+} */
+
+/* 2D TRANSFORM */
+.box {
+    transition: 1s;
+    height: 100px;
+    width: 100px;
+    margin: 50px;
+    background-color: purple;
+    position: relative;
+}
+
+/* 2D TRANSFORM 1*/
+.box:hover {
+    height: 200px;
+    width: 200px;
+    margin: 50px;
+    background-color: crimson;
+    transform: rotate(180deg); 
+    position: relative;
+}
