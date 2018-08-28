@@ -195,11 +195,7 @@ t = (1, [0, "test"], { "a1" : True })
 # a.append("titis")
 # print(a)
 
-# # SETS
-# s = { 1, 3, 1, 2, 2, 3 }
-# print(s)
-# print(list(s)[2])
-
-list1=[1,1,2,2,3,3]
-set2=set(list1)
-print(set2)
+# SETS
+s = { 1, 3, 1, 2, 2, 3 }
+print(s)
+print(list(s)[2])
